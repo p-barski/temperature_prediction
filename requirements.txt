@@ -1,0 +1,4 @@
+sklearn==0.0
+ipykernel==5.4.3
+pandas==1.2.1
+matplotlib==3.3.4
